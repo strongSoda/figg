@@ -9,6 +9,10 @@ description: figg.css A lightweight css boilerplate.
 # Typography
 ### Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/> 
 
+## Contents
+
+1. [Headings](#headings)
+
 ## Headings
 # h1 - Figg Heading 1 
 ## h2 - Figg Heading 2 
