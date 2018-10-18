@@ -12,6 +12,8 @@ description: figg.css A lightweight css boilerplate.
 ## Contents
 
 1. [Headings](#headings)
+2. [Paragraphs](#paragraphs)
+3. [Text Formatting](#formatted-texts)
 
 ## Headings
 # h1 - Figg Heading 1 
