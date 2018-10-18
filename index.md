@@ -7,7 +7,9 @@ description: figg.css A lightweight css boilerplate.
 <link rel="stylesheet" type="text/css" media="screen" href="figg.css" />
 
 # Typography
-### Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/> 
+### Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.
+
+----
 
 ## Contents
 
