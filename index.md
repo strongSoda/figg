@@ -11,10 +11,10 @@
 <body>
     <div class="container">
         
-        # Typography
-        ### Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/>
+        #Typography
+        ###Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/>
 
-        ## Headings
+        ##Headings
 
         <h1>h1 - Figg Heading 1 </h1>
         <h2>h2 - Figg Heading 2 </h2>
@@ -23,7 +23,7 @@
         <h5>h5 - Figg Heading 5 </h5>
         <h6>h6 - Figg Heading 6 </h6><br/><hr/><br/>
 
-        ## Paragraphs
+        ##Paragraphs
         <p>This is a Paragraph</p>
         <p>This is another Paragraph</p><br/><hr/><br/>
 
