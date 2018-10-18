@@ -1,18 +1,14 @@
-
-<html>
-<head>
+---
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Figg CSS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="figg.css" />
     <!-- <script src="main.js"></script> -->
-</head>
-<body>
-    <div class="container">
+   ---
+   
         
-        #Typography
-        ###Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/>
+        # Typography
+        ### Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.<hr/><br/>
 
         ##Headings
 
@@ -37,4 +33,3 @@
         <p><em>This line rendered as italicized text.</em></p>
 
     </div></body>
-</html>
